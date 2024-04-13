@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/first-project-web-react-js/static/css/main.279604cf.css",
+    "main.js": "/first-project-web-react-js/static/js/main.354e02d3.js",
+    "static/media/home-page.jpg": "/first-project-web-react-js/static/media/home-page.8cc2bc764b2a3763aed5.jpg",
+    "static/media/icon-3.jpg": "/first-project-web-react-js/static/media/icon-3.ff82a639a81ddb94605c.jpg",
+    "static/media/icon-1.jpg": "/first-project-web-react-js/static/media/icon-1.5fb875a724cfa73101de.jpg",
+    "static/media/icon-2.jpg": "/first-project-web-react-js/static/media/icon-2.fd86d1c88a632f36730c.jpg",
+    "static/media/hero-1.jpg": "/first-project-web-react-js/static/media/hero-1.aabbdd03318a0927e387.jpg",
+    "static/media/hero-4.jpg": "/first-project-web-react-js/static/media/hero-4.8929436824b629c6d1a4.jpg",
+    "index.html": "/first-project-web-react-js/index.html",
+    "main.279604cf.css.map": "/first-project-web-react-js/static/css/main.279604cf.css.map",
+    "main.354e02d3.js.map": "/first-project-web-react-js/static/js/main.354e02d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279604cf.css",
+    "static/js/main.354e02d3.js"
+  ]
+}

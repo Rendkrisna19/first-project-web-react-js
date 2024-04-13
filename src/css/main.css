@@ -1,0 +1,61 @@
+* {
+  font-family: "Popins", sans-serif;
+}
+
+.navbar {
+  padding: 10px 0 10px 0;
+}
+.navbar.color-active {
+  background-color: black;
+}
+.home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.34)),
+    url(../assets/hero/home-page.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+  font-style: bold;
+}
+
+.galery img {
+  height: 220px;
+}
+
+.gambar {
+  max-width: 100%; /* Untuk memastikan gambar tidak melebihi lebar container */
+  max-height: 100%; /* Untuk memastikan gambar tidak melebihi tinggi container */
+  height: auto; /* Untuk memastikan gambar tetap proporsional saat diubah ukuran */
+}
+
+.icon {
+  width: 200px;
+  height: 200px;
+}
+.custom-bg {
+  background-color: hsl(0, 0%, 36%);
+}
+
+.service-bg {
+  background-color: hsl(0, 0%, 60%);
+}
+
+.faq {
+  padding-top: 100px;
+  padding-bottom: 150px;
+  background-color: hsl(0, 0%, 80%);
+}
+.fa .accordion{
+ background-color: #8eb780;
+}
+.fa .accordion .accordion-button:focus{
+  box-shadow: 0;
+}
+
+.footer{
+  background-color: black;
+  
+}
